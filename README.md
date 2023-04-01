@@ -22,4 +22,4 @@
 
 ## Mодель базы данных в виде физической ER-диаграммы
 
-![image](https://user-images.githubusercontent.com/94709259/229187748-202d9262-f92f-488a-a419-c2fb0ae7f6ea.png)
+![image](https://user-images.githubusercontent.com/94709259/229278368-5f2744c4-11bd-4479-958e-658087eece9e.png)
